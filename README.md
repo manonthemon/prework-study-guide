@@ -1,4 +1,4 @@
-# Prewoork Study Guide Website
+# Prework Study Guide Website
 
 ## Description
 
@@ -21,7 +21,7 @@ N/A
 
 The website contains notes on HTML, CSS, git and JavaScript based on the prework modules of the Bootcampspot front end development bootcamp modules. The notes are divided into easy to read sections referring to each above-mentioned tool.
 
-Moreover, the website has a built-in functionality allowing the user to randomly choose the next section to review. It can be accessed by opening the browsers DevTools console, by pressing Control+Shift+I (Windows), or Command + Option + I (macOS). One in the Console panel, refresh the website for new learning suggestion.
+Moreover, the website has a built-in functionality allowing the user to randomly select the next section to review. It can be accessed by opening the browsers DevTools console, by pressing Control+Shift+I (Windows), or Command + Option + I (macOS). One in the Console panel, refresh the website for new learning suggestion.
 
 ## Credits
 
